@@ -9,7 +9,7 @@ I am a Full Stack Web Developer. I have done over 5 projects based on the MERN s
 I love to create efficient and scalable products which help solve problems using web technologies.
 
 
-## Technologies
+## Technologies I Use
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -27,5 +27,5 @@ I love to create efficient and scalable products which help solve problems using
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Social Media
+## Find me here
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/HuzefaUsama) [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/13531219/huzefa-usama)
