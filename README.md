@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](https://komarev.com/ghpvc/?username=HuzefaUsama25)
+![](https://komarev.com/ghpvc/?username=HuzefaUsama25)
 
 Here are some ideas to get you started:
 
