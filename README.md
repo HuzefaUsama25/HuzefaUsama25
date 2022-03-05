@@ -29,3 +29,5 @@ I love to create efficient and scalable products which help solve problems using
 
 ## Find me here
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/HuzefaUsama) [<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/13531219/huzefa-usama)
+![<img src="https://img.shields.io/badge/huzefausama-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/huzefausama)
+
