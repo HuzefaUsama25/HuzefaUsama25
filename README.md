@@ -4,9 +4,7 @@
 
 
 ## About Me
-My name is Huzefa Usama and I am a Pakistan based Computer Science student currently studying in my 1st year of college at APSACS Petaro.
-I am a Full Stack Web Developer. I have done over 5 projects based on the MERN stack and multiple python side projects.
-I love to create efficient and scalable products which help solve problems using web technologies.
+My name is Huzefa Usama and I am a Full Stack Freelance Web Developer. I am a Computer Science student currently studying in Pakistan. I love to create efficient and scalable products which help solve problems using web technologies like the MERN stack.
 
 
 ## Technologies I Use
